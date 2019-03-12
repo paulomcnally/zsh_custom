@@ -2,6 +2,21 @@
 
 The pt plugin provides commands to work with Git and Pivotal Tacker.
 
+Only work with branch name like `feature/1234567890`.
+
+```
+$ git add .
+$ pt commit "Message from commit"
+```
+
+Final commit message:
+
+```
+Message from commit
+
+[#1234567890]
+```
+
 ### Clone
 ```
 $ cd ~
