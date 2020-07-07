@@ -3,7 +3,7 @@
 Plugin to work with Ciclo internal project.
 
 ```
-$ ciclo start "
+$ ciclo start
 ``
 
 ### Clone
