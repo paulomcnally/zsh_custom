@@ -26,7 +26,7 @@ Find `ZSH_CUSTOM` and set.
 ZSH_CUSTOM=~/zsh_custom
 ```
 
-Find `plugins=()` and add `pt`.
+Find `plugins=()` and add `ciclo`.
 
 ```
 plugins=(
